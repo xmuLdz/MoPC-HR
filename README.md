@@ -20,7 +20,7 @@ in the classification layer, which effectively mitigates the issue of catastroph
 
 ## 📊 数据来源
 
-本项目中使用的ADS=-B数据集来自以下公开论文：
+本项目中使用的ADS-B数据集来自以下公开论文：
 
 - **论文题目**：Class-Incremental Learning for Wireless Device Identification in IoT  
 - **作者**：Y. Liu, J. Wang, J. Li, S. Niu and H. Song  
